@@ -13,7 +13,7 @@ export const projectsData = [
         projectName: 'UNACADEMY-REPLICA',
         projectDesc: 'A complete Frontend clone, replicating the user flow and behaviour of Unacademy.com .',
         projectResp: "Areas Of Responsibilities",
-        responsibility: ["Main Course and subscription Page", "User Authentication", "Redux Integration", "Payment Portal" ],
+        responsibility: ["Main Course and subscription Page", "User Authentication", "Redux Integration", "Payment Portal"],
         tags: [react, redux, materialui],
         code: 'https://github.com/wizard3107/Unacademy',
         demo: 'https://unacademy-4gxli0l3b-wizard3107.vercel.app/',
@@ -27,7 +27,7 @@ export const projectsData = [
         responsibility: ["UserAuthentication", "Integration of Routes", "Cart Page", "Carousels"],
         tags: [react, redux, materialui],
         code: 'https://github.com/wizard3107/pepperfry_clone',
-        demo: 'https://pepperfly.netlify.app/',
+        demo: 'https://pepperfryclone.netlify.app/',
         image: two
     },
     {
