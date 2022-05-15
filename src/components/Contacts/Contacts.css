@@ -165,6 +165,7 @@
     justify-content: center;
     gap: 1.5rem;
     margin-top: 4rem;
+    margin-left: -7em;
 }
 
 
@@ -179,6 +180,9 @@
         padding: 2rem 4rem;
         width: 90%;
         margin-top: 1rem;
+    }
+     .socialmedia-icons {
+        margin-left: -4em;
     }
 }
 
@@ -201,6 +205,9 @@
     .personal-details p {
         margin-left: 1rem;
         font-size: 1rem;
+    }
+    .socialmedia-icons {
+        margin-left: -3em;
     }
 }
 
@@ -241,6 +248,7 @@
         width: 100%;
         gap: 1.5rem;
         margin-top: 2rem;
+        margin-left: -3em;
     }
     .personal-details {
         margin-bottom: 1.8rem;
@@ -278,6 +286,9 @@
     .contacts-details {
         padding-left: 0rem;
         padding: 0rem;
+    }
+     .socialmedia-icons {
+        margin-left: -1em;
     }
 }
 
