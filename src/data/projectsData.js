@@ -18,7 +18,7 @@ export const projectsData = [
         responsibility: ["Main Course and subscription Page", "User Authentication","Backend Integration","Redux Integration", "Payment Portal"],
         tags: [react,express,redux],
         code: 'https://github.com/wizard3107/Unacademy',
-        demo: 'https://unacademy-4gxli0l3b-wizard3107.vercel.app/',
+        demo: 'https://unacademy-clone-alpha.vercel.app/',
         image: one
     },
     {
