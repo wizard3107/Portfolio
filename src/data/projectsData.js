@@ -4,6 +4,8 @@ import three from '../assets/svg/projects/flyPlane.jpg'
 import redux from '../assets/svg/skills/redux.svg'
 import react from '../assets/svg/skills/react.svg'
 import materialui from '../assets/svg/skills/materialui.svg'
+import express from '../assets/svg/skills/express.svg'
+import mongoDB from '../assets/svg/skills/mongoDB.svg'
 import css from '../assets/svg/skills/css.svg'
 import html from '../assets/svg/skills/html.svg'
 import javascript from '../assets/svg/skills/javascript.svg'
@@ -11,10 +13,10 @@ export const projectsData = [
     {
         id: 1,
         projectName: 'UNACADEMY-REPLICA',
-        projectDesc: 'A complete Frontend clone, replicating the user flow and behaviour of Unacademy.com .',
+        projectDesc: 'A Full Stack clone, replicating the user flow and behaviour of Unacademy.com.',
         projectResp: "Areas Of Responsibilities",
-        responsibility: ["Main Course and subscription Page", "User Authentication", "Redux Integration", "Payment Portal"],
-        tags: [react, redux, materialui],
+        responsibility: ["Main Course and subscription Page", "User Authentication","Backend Integration","Redux Integration", "Payment Portal"],
+        tags: [react,express,redux],
         code: 'https://github.com/wizard3107/Unacademy',
         demo: 'https://unacademy-4gxli0l3b-wizard3107.vercel.app/',
         image: one
