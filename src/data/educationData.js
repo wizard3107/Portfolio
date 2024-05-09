@@ -1,12 +1,5 @@
 export const educationData = [
     {
-        id: 1,
-        institution: 'Masai School, Banglore',
-        course: 'Full Stack Web Development',
-        startYear: '2021',
-        endYear: 'Present'
-    },
-    {
         id: 2,
         institution: 'Invertis University',
         course: 'Bachelor of Technology (CSE)',
@@ -19,5 +12,12 @@ export const educationData = [
         course: 'Intermediate',
         startYear: '2017',
         endYear: '2018'
+    },
+    {
+        id: 4,
+        institution: 'Delhi Public School, Bareill',
+        course: 'Matriculation',
+        startYear: '2015',
+        endYear: '2016'
     },
 ]

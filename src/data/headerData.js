@@ -5,5 +5,5 @@ export const headerData = {
     title: "A Full Stack Developer",
     desciption: "Programming is not about what you know, Its about what you can figure out.",
     image: profile,
-    resumePdf: "https://drive.google.com/file/d/1LL9qtAkcuw2AVieoFXpS3n5Ba5HmHCdZ/view?usp=sharing"
+    resumePdf: "https://www.canva.com/design/DAF8pnx29h8/5CyMps8TDh8LaMmDbwVWPQ/view?utm_content=DAF8pnx29h8&utm_campaign=designshare&utm_medium=link&utm_source=editor"
 }

@@ -1,6 +1,7 @@
 .about {
-    min-height: 100vh;
+    min-height: fit-content;
     position: relative;
+    padding: 2rem;
 }
 
 .about .line-styling{

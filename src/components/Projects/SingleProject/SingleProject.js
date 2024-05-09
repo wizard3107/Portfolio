@@ -15,8 +15,8 @@ function SingleProject({ id, name, desc, tags, code, demo, image, theme, resp, r
             width: 40,
             height: 40,
             borderRadius: 50,
-            border: `2px solid ${theme.tertiary}`,
-            color: theme.tertiary_heading,
+            border: `2px solid ${theme.secondary}`,
+            color: theme.secondary,
             transition: 'all 0.2s',
             '&:hover': {
                 backgroundColor: theme.secondary,
